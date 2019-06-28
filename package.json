@@ -1,7 +1,8 @@
 {
-  "name": "eventsource",
+  "name": "eventsource2",
   "version": "1.1.0",
-  "description": "W3C compliant EventSource client for Node.js and browser (polyfill)",
+  "description": "W3C compliant EventSource client for Node.js and browser (polyfill) Forked from http://github.com/EventSource/eventsource",
+
   "keywords": [
     "eventsource",
     "http",
@@ -9,14 +10,14 @@
     "sse",
     "polyfill"
   ],
-  "homepage": "http://github.com/EventSource/eventsource",
-  "author": "Aslak Hellesøy <aslak.hellesoy@gmail.com>",
+  "homepage": "http://github.com/dpatty/eventsource",
+  "author": "David Patty <davidpatty@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/EventSource/eventsource.git"
+    "url": "git://github.com/dpatty/eventsource.git"
   },
   "bugs": {
-    "url": "http://github.com/EventSource/eventsource/issues"
+    "url": "http://github.com/dpatty/eventsource/issues"
   },
   "directories": {
     "lib": "./lib"
@@ -26,7 +27,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/EventSource/eventsource/raw/master/LICENSE"
+      "url": "http://github.com/dpatty/eventsource/raw/master/LICENSE"
     }
   ],
   "devDependencies": {
