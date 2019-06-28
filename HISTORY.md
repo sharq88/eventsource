@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/dpatty/eventsource/compare/v1.0.8...v1.1.0)
+* Allow configuring of the reconnection interval using an exponential backoff ([#126](https://github.com/EventSource/eventsource/pull/126) David Patty)
+
+# [1.0.8](https://github.com/dpatty/eventsource/compare/v1.0.7...v1.0.8)
+* Prevent simultaneous reconnection attempts on multiple errors ([#125](https://github.com/EventSource/eventsource/pull/125) David Patty)
+
 # [1.0.7](https://github.com/EventSource/eventsource/compare/v1.0.6...v1.0.7)
 
 * Add dispatchEvent to EventSource ([#101](https://github.com/EventSource/eventsource/pull/101) Ali Afroozeh)
