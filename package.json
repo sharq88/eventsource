@@ -1,7 +1,8 @@
 {
   "name": "eventsource2",
-  "version": "1.0.8",
-  "description": "W3C compliant EventSource client for Node.js and browser (polyfill). Forked from http://github.com/EventSource/eventsource",
+  "version": "1.1.0",
+  "description": "W3C compliant EventSource client for Node.js and browser (polyfill) Forked from http://github.com/EventSource/eventsource",
+
   "keywords": [
     "eventsource",
     "http",
